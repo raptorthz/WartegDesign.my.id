@@ -1,18 +1,14 @@
 # Free Static HTML Website Templates
 
-**Screenshots - Download the Templates to See the Animations**
+**Screenshots - Download the Templates to See the Animations on** [More Free Template](https://designmodo.com/website-templates/)
 
-![Website template](https://raw.githubusercontent.com/designmodo/html-website-templates/master/images/template-screenshot.jpg)
+![Website template](https://cdn.discordapp.com/attachments/903276755601719316/1019783040358162532/unknown.png)
 
-![Website template](https://raw.githubusercontent.com/designmodo/html-website-templates/master/images/template-screenshot2.jpg)
+![Website template](https://cdn.discordapp.com/attachments/903276755601719316/1019783071152734218/unknown.png)
 
-![Website template](https://raw.githubusercontent.com/designmodo/html-website-templates/master/images/template-screenshot3.jpg)
+![Website template](https://cdn.discordapp.com/attachments/903276755601719316/1019783087187562566/unknown.png)
 
-![Website template](https://raw.githubusercontent.com/designmodo/html-website-templates/master/images/template-screenshot4.jpg)
-
-**Create Websites With Fully Integrated Info**
-
-We are sick of having notifications, messages, and information everywhere which is why Slides app takes care that all the info you need is well integrated. That means you can chat, discuss, show, collect emails and polls, provide directions and more. This awesome collection of integrations will expand your selling capabilities.
+![Website template](https://cdn.discordapp.com/attachments/903276755601719316/1019783108012281908/unknown.png)
 
 **Play With Powerful Built-In Modules**
 
@@ -35,8 +31,6 @@ The clean design is not the only amazing. This app has a lot of powerful and pra
 
 This app is perfect for those who are willing to design outstanding websites as it offers numerous possibilities for creation.
 
-- Free templates released.
+- Free templates released, i just use it & remake it.
 
-**Credits**
-
-By [Kyy](https://github.com/keyyskuy).
+[©The K](https://github.com/keyyskuy).
